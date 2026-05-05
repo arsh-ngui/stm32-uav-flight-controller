@@ -64,5 +64,5 @@ stm32-uav-flight-controller/
 
 ## Author
 
-Anubhav Suri
+Anubhav Suri<br>
 Arsh Handa
