@@ -1,4 +1,4 @@
-# STM32 UAV Flight Controller ✈️
+# STM32 UAV Flight Controller 
 
 ## Overview
 
